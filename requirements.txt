@@ -1,0 +1,26 @@
+# Core deep learning
+torch
+torchvision
+
+# Pretrained model zoo
+timm
+
+#HuggingFace datasets(Food-101)
+datasets
+
+#Explainability
+grad-cam
+
+#FLOPs counter
+calflops
+
+#LoRA
+loralib
+
+#Data manipulation & visualisation
+numpy
+pandas
+matplotlib
+seaborn
+Pillow
+scikit-learn
