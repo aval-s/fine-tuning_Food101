@@ -4,6 +4,7 @@ A comparative study of parameter-efficient fine-tuning (PEFT) strategies applied
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ZVFHZFNJq1k4Oru1wIfQlUHQoAjRQKd5?usp=sharing#scrollTo=94Iqb2ZxHarW)
 
+[![View Presentation](https://img.shields.io/badge/View%20Presentation-OneDrive-blue?logo=microsoft)](https://onedrive.live.com/:p:/g/personal/CEB422B5D4007BBA/IQDDhx5UTEnpSZ2CrxUjYypXAVGTRKrjmYWk2sU0tPNaA7A?resid=CEB422B5D4007BBA!s541e87c3494c49e99d82af1523632a57&ithint=file%2Cpptx&migratedtospo=true&redeem=aHR0cHM6Ly8xZHJ2Lm1zL3AvYy9jZWI0MjJiNWQ0MDA3YmJhL0lRRERoeDVVVEVucFNaMkNyeFVqWXlwWEFWR1RSS3JqbVlXazJzVTB0UE5hQTdB)
 ---
 
 ## Overview
