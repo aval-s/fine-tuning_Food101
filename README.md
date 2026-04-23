@@ -84,9 +84,9 @@ Open and run `Project.ipynb` in Jupyter or Google Colab. The notebook is structu
 7. **Grad-CAM** — spatial attention visualisations for all ResNet-18 variants
 8. **Evaluation on Corrupted Test Sets** — robustness benchmarking across all six splits
 
-### Google Colab Notes
+### Google Colab Link
 
-The notebook was developed on Colab. If running locally, update `SAVE_PATH` in the notebook accordingly.
+https://colab.research.google.com/drive/1ZVFHZFNJq1k4Oru1wIfQlUHQoAjRQKd5?usp=sharing#scrollTo=94Iqb2ZxHarW
 
 ## Configuration
 
